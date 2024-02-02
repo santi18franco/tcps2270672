@@ -4,4 +4,5 @@
 | tema | tipo |
 |--------|------|
 |1. wireframes | LOHI |
-|2. wireframes | 
+|2. wireframes | HIFI |
+![alt text](http://tinyurl.com/2x2rdz4m)
