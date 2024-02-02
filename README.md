@@ -5,4 +5,4 @@
 |--------|------|
 |1. wireframes | LOHI |
 |2. wireframes | HIFI |
-![alt text](http://tinyurl.com/2x2rdz4m)
+![alt text](https://pbs.twimg.com/media/FNv1RM6WYAcgWFv.jpg:large)
